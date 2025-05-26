@@ -30,9 +30,9 @@ L'application vous permettra de créer et partager des extraits de texte accessi
 
 ### Travail à réaliser
 
-#### 1. **Analyse du Dockerfile**
+#### 1. **Dockerfile**
 
-Voici ce que votre maître de stage a déjà mis en place :
+Voici ce que votre maître de stage a analysé et vous demande de mettre en place :
 
 - **Base de l’image** : il utilise `node:18-alpine`, une version allégée de Node.js optimisée pour le déploiement.
 - **Répertoire de travail** : il change le répertoire de travail courant dans le conteneur, dans le dossier `app`, ce qui signifie que toutes les actions suivantes se feront dans ce dossier.
@@ -73,7 +73,9 @@ Vous devez maintenant :
 Vous pouvez consulter la documentation officielle de Hastebin :  
 https://github.com/seejohnrun/haste-server
 
-Et utiliser MagicSchool.AI pour toute aide technique autorisée. Le code de session vous sera fourni par l'enseignant.
+Et utiliser MagicSchool.AI pour toute aide technique autorisée. https://student.magicschool.ai/s/join 
+
+Le code de session vous sera fourni par l'enseignant.
 
 ---
 
