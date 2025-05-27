@@ -83,3 +83,6 @@ Le code de session vous sera fourni par l'enseignant.
 
 Pour structurer vos fichiers `README.md` et `demo/README.md`, une cheat sheet Markdown est disponible ici :  
 https://www.markdownguide.org/cheat-sheet/
+
+## Aide pour la rédaction de markdown
+- [CheatSheat Markdown](markdown.md)
